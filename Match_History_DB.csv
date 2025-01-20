@@ -1,0 +1,8 @@
+Game_ID,Date,Lekmod_Version,Player_Count,Player_Names,Bans_1,Picks_1,Picks_2,Picks_3,Bans_2,Picks_Final,Status,Turn,Victory_Condition,Victor
+01,12/07/2023,31.10 BETA,3,Dathan|Ganx|Dotts,None,None,None,None,None,Rome|Assyria|Huns,Complete,74,Domination|Concession,Dotts
+02,12/07/2023,31.10 BETA,4,Owen|Fish|Ganx|Dotts,Carthage|Assyria|Zulu|Inca,Aztec|France|NewZealand|Spain,Japan|Russia|Shoshone|Huns,Brunei|Poland|Sioux|Jerusalem,Huns|Sioux|Spain|NewZealand,Aztec|Russia|Shoshone|Jerusalem,Complete,125,Domination|Concession,Dotts
+02,12/09/2023,31.10 BETA,2,Ganx|Dotts,None,None,None,None,None,Assyria|Tonga,Complete,179,Diplomacy,Dotts
+03,12/10/2023,31.10 BETA,5,JavaCrow|Fish|Ganx|Dathan|Dotts,Madagascar|Tonga|Carthage|Denmark|Brunei,Spain|France|NewZealand|Netherlands|Philipines,Huns|Russia|Jerusalem|Polynesia|England,Oman|UAE|Norway|Portugal|Korea,Philipines|Netherlands|Korea|Norway|NewZealand,Spain|France|Jerusalem|Polynesia|England,Ongoing,158,,
+04,12/11/2023,31.10 BETA,4,Fish|Ganx|Dathan|Dotts,Tonga|Huns|Spain|Rome,Russia|Shoshone|Netherlands|NewZealand,UAE|Aztec|Denmark|Assyria,Maya|Inca|Portugal|Zulu,Zulu|NewZealand|Aztec|Denmark,Russia|Inca|Netherlands|Assyria,Complete,178,Diplomacy,Dotts
+05,12/12/2023,31.10 BETA,3,AI|AI|Fish|Dathan|Dotts,None,None,None,None,None,Polmyra|Mysore|Cuba|Babylon|Assyria,Complete,155,Domination|Concession,Dotts
+06,12/14/2023,31.10 BETA,6,Alemandro|Tobey|Fish|Ganx|Dathan|Dotts,Sioux|Zulu|Spain|NewZealand|Assyria|Inca,England|Poland|Russia|Babylon|Aztec|Rome|Tonga,Byzantine|Hungary|Babylon|Shoshone|Denmark|Huns,India|Finland|Carthage|Netherlands|America|Jerusalem,India|Finland|Rome|Huns|Aztec|Denmark,Byzantium|Poland|Russia|Shoshone|America|Tonga,Ongoing,,,
